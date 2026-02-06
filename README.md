@@ -5,6 +5,7 @@ Vtube Studio で利用可能なLive2Dモデルです。
 - YouTubeやTwitchでのライブ配信
 - お友達との通話や遊び
 - ちょっとした動画制作
+
 など、お気軽にご利用ください。
 
 ![sample_gif](https://github.com/Log-Cig/Live2D_Model_YuiYoimachi/blob/main/images/sample.gif?raw=true)
@@ -36,6 +37,7 @@ Vtube Studio で利用可能なLive2Dモデルです。
 
 > 詳細は付属の [LICENSE](./LICENSE) ファイルをご確認ください。
 
+[YT_Channel](https://www.youtube.com/@Log-Cig)登録もお願いします。（強制ではありません）
 
 ## クレジット例
 
